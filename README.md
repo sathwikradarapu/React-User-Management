@@ -85,6 +85,4 @@ The project uses Bootstrap 4 for responsive design and custom styles are include
 2.Success messages are shown after actions like adding, updating, or deleting users.
 
 ### For any questions or contributions, feel free to raise an issue or submit a pull request.Happy coding!🚀
-=======
-# React-User-Management
->>>>>>> 1c2c74027d777db392fea14455d327015cada52f
+
