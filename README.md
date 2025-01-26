@@ -82,6 +82,7 @@ The project uses Bootstrap 4 for responsive design and custom styles are include
 ## Error Handling
 
 1.The app displays an error message at the top of the page if a request fails (e.g., fetching users, adding a user, etc).
+
 2.Success messages are shown after actions like adding, updating, or deleting users.
 
 ### For any questions or contributions, feel free to raise an issue or submit a pull request.Happy coding!🚀
