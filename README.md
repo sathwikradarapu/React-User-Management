@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # User Management App
 
 This project is a simple user management application built using React. It allows users to view, add, edit, and delete users from a list. It also includes pagination to navigate through pages of users. The project uses Bootstrap for styling and includes error handling and success messages to improve user experience.
@@ -99,3 +100,6 @@ The project uses Bootstrap 4 for responsive design and custom styles are include
 2.Success messages are shown after actions like adding, updating, or deleting users.
 
 ### For any questions or contributions, feel free to raise an issue or submit a pull request.Happy coding!🚀
+=======
+# React-User-Management
+>>>>>>> 1c2c74027d777db392fea14455d327015cada52f
