@@ -41,6 +41,7 @@ Open the application in your browser at http://localhost:3000.
 **1.ErrorBoundary**:
 
 Displays an error message when an action fails (e.g., fetching, adding, or deleting a user).
+
 **Props**:
 
 **-error**: The error message to display.
