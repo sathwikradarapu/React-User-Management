@@ -25,20 +25,6 @@ npm install
 npm start
 Open the application in your browser at http://localhost:3000.
 
-## File Structure
-
-src/
-│
-├── components/
-│ ├── ErrorBoundary.jsx # Displays error messages for failed actions
-│ ├── UserForm.jsx # Form for adding and editing users
-│ └── UserList.jsx # Displays the list of users in a table
-│
-├── styles.css # Custom styles for the app
-├── App.jsx # Main application component
-├── main.jsx # Entry point of the React application
-└── package.json # Project metadata and dependencies
-
 ## Components
 
 **1.ErrorBoundary**:
